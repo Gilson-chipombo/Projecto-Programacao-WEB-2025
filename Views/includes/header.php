@@ -97,7 +97,7 @@
 
     <aside class="main-sidebar sidebar-dark-primary elevation-4">
       <a href="dashboard.php" class="brand-link">
-        <span class="brand-text font-weight-light">42 Route </span>
+        <span class="brand-text font-weight-light"><h2>Rota 42 Luanda</h2> </span>
       </a>
 
       <div class="sidebar">
